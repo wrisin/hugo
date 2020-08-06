@@ -64,7 +64,7 @@ draft: true
 
 （5）回到github desktop，点击左下角commit to master（可能要填tag）；
 
-（6）点击上方第二行栏目的pull上传到github。
+（6）点击上方第二行栏目的push origin上传到github。
 
 **2.生成文章**
 
