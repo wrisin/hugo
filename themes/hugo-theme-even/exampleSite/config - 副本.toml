@@ -1,0 +1,4 @@
+baseURL = "https://auauau.cn/"
+languageCode = "en-us"
+title = "エース"
+theme = "contrast-hugo"
