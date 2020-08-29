@@ -2,7 +2,7 @@
 title: "Hugo on Vercel"
 date: 2020-08-07T00:48:47+08:00
 lastmod: 2020-08-29T21:19:26+08:00
-draft: true
+draft: false
 tags: ["Hugo", "Vercel"]
 categories: [分享]
 author: "AceDog"
