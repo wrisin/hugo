@@ -1,6 +1,6 @@
 baseURL = "https://auauau.cn/"
 languageCode = "en"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "エース - 苟利国家生死以，岂因祸福避趋之"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
