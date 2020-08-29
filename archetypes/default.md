@@ -3,11 +3,9 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: true
-keywords: []
-description: ""
 tags: []
 categories: []
-author: ""
+author: "AceDog"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
